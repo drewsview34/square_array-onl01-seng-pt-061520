@@ -1,3 +1,5 @@
 def square_array(array)
-  # your code here
+  array.each do |each_element_of_array|
+    puts ""
+  end 
 end
